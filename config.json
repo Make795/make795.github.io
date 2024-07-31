@@ -10,6 +10,7 @@
     "exlink":{"music":"https://www.tech-catfish.cloudns.ch/navlite/"},
     "commentLabelColor":"#006b75",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "commentLabelColor":"#006b75",
     "i18n":"CN",
     "UTC":8,
     "startSite":"02/16/2015",
