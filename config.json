@@ -13,6 +13,15 @@
     "commentLabelColor":"#006b75",
     "i18n":"CN",
     "UTC":8,
+    "urlMode":"pinyin",
+    "style":"",
+    "script":"",
+    "head":"",
+    "allHead":"",
+    "indexStyle":"",
+    "indexScript":"",
+    "showPostSource":1,
+    "rssSplit":"sentence",
     "startSite":"02/16/2015",
     "bottomText":"转载请注明出处"
 }
