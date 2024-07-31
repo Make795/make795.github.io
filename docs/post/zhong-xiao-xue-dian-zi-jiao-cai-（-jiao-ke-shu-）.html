@@ -34,7 +34,7 @@ _[https://textbook.synaiv.com/](url)_
 ### 3、在线中小学人教版教材下载
 1~9年级所有学科电子版教材(人教版)下载，免费无需注册登录，无需关注，无任何附加条件。">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://https://blog.tech-catfish.cloudns.ch//post/zhong-xiao-xue-dian-zi-jiao-cai-%EF%BC%88-jiao-ke-shu-%EF%BC%89.html">
+<meta property="og:url" content="https://www.tech-catfish.cloudns.ch//post/zhong-xiao-xue-dian-zi-jiao-cai-%EF%BC%88-jiao-ke-shu-%EF%BC%89.html">
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/45809211?v=4">
 <title>中小学电子教材（教科书）</title>
 
@@ -70,7 +70,7 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="header">
 <h1 class="postTitle">中小学电子教材（教科书）</h1>
 <div class="title-right">
-    <a href="http://https://blog.tech-catfish.cloudns.ch/" id="buttonHome" class="btn btn-invisible circle" title="首页">
+    <a href="https://www.tech-catfish.cloudns.ch/" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
             <path id="pathHome" fill-rule="evenodd"></path>
         </svg>
@@ -119,11 +119,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 <a href="url">https://xuanle.lanzoul.com/ivIpP1590ovg</a></em></p></div>
 <div style="font-size:small;margin-top:8px;float:right;">转载请注明出处</div>
 
-<button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
-<div class="comments" id="comments"></div>
-
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="http://https://blog.tech-catfish.cloudns.ch/">Tech-Catfish</a></div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://www.tech-catfish.cloudns.ch/">Tech-Catfish</a></div>
 <div id="footer2">
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
@@ -178,41 +175,6 @@ document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
 
 
 
-function openComments(){
-    cm=document.getElementById("comments");
-    cmButton=document.getElementById("cmButton");
-    cmButton.innerHTML="loading";
-    span=document.createElement("span");
-    span.setAttribute("class","AnimatedEllipsis");
-    cmButton.appendChild(span);
-
-    script=document.createElement("script");
-    script.setAttribute("src","https://utteranc.es/client.js");
-    script.setAttribute("repo","Make795/make795.github.io");
-    script.setAttribute("issue-term","title");
-    
-    if(localStorage.getItem("meek_theme")=="dark"){script.setAttribute("theme","dark-blue");}
-    else if(localStorage.getItem("meek_theme")=="light") {script.setAttribute("theme","github-light");}
-    else{script.setAttribute("theme","preferred-color-scheme");}
-    
-    script.setAttribute("crossorigin","anonymous");
-    script.setAttribute("async","");
-    cm.appendChild(script);
-
-    int=self.setInterval("iFrameLoading()",200);
-}
-
-function iFrameLoading(){
-    var utterances=document.getElementsByClassName('utterances');
-    if(utterances.length==1){
-        if(utterances[0].style.height!=""){
-            utterancesLoad=1;
-            int=window.clearInterval(int);
-            document.getElementById("cmButton").style.display="none";
-            console.log("utterances Load OK");
-        }
-    }
-}
 </script>
 
 
