@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tech-Catfish</title><link>https://www.tech-catfish.cloudns.ch/</link><description>私のブログへようこそ。私は技術的なナマズです。記事を共有する技術的なナマズです</description><copyright>Tech-Catfish</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/45809211?v=4</url><title>avatar</title><link>https://www.tech-catfish.cloudns.ch/</link></image><lastBuildDate>Wed, 31 Jul 2024 05:34:54 +0000</lastBuildDate><managingEditor>Tech-Catfish</managingEditor><ttl>60</ttl><webMaster>Tech-Catfish</webMaster><item><title>全国流量密码</title><link>https://www.tech-catfish.cloudns.ch//post/quan-guo-liu-liang-mi-ma.html</link><description>$$&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tech-Catfish</title><link>https://www.tech-catfish.cloudns.ch/</link><description>私のブログへようこそ。私は技術的なナマズです。記事を共有する技術的なナマズです</description><copyright>Tech-Catfish</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/45809211?v=4</url><title>avatar</title><link>https://www.tech-catfish.cloudns.ch/</link></image><lastBuildDate>Thu, 01 Aug 2024 00:32:40 +0000</lastBuildDate><managingEditor>Tech-Catfish</managingEditor><ttl>60</ttl><webMaster>Tech-Catfish</webMaster><item><title>免费域名，二级域名</title><link>https://www.tech-catfish.cloudns.ch//post/mian-fei-yu-ming-%EF%BC%8C-er-ji-yu-ming.html</link><description>## 域名对个人的重要性还是有些的，比如家用DDNS？&#13;
+&#13;
+免费的域名有以下网站，还请其他大佬继续补充，一起将白嫖进行到底&#13;
+&#13;
+[https://subreg.cz ](https://www.rei3.com/?golink=aHR0cHM6Ly9zdWJyZWcuY3ov)可以申请free.hr二级域名(现在需要收费1.6元/年了)，可以托管到 CF&#13;
+&#13;
+[https://freedomain.one ](https://www.rei3.com/?golink=aHR0cHM6Ly9mcmVlZG9tYWluLm9uZS8=)可以申请 [publicvm.com ](https://www.rei3.com/?golink=aHR0cDovL3B1YmxpY3ZtLmNvbS8=)、run.place等五种免费二级域名&#13;
+&#13;
+[https://www.azote.org](https://www.rei3.com/?golink=aHR0cHM6Ly93d3cuYXpvdGUub3JnLw==) 可以申请N多免费二级域名，虽不能托管到CF，但是可以通过CF的SaaS 来CNAME进行域名加速，同样很好用。</description><guid isPermaLink="true">https://www.tech-catfish.cloudns.ch//post/mian-fei-yu-ming-%EF%BC%8C-er-ji-yu-ming.html</guid><pubDate>Thu, 01 Aug 2024 00:32:17 +0000</pubDate></item><item><title>全国流量密码</title><link>https://www.tech-catfish.cloudns.ch//post/quan-guo-liu-liang-mi-ma.html</link><description>$$&#13;
 **⌚全国流量密码更新**&#13;
 $$&#13;
 &#13;
