@@ -1,5 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tech-Catfish</title><link>https://www.tech-catfish.cloudns.ch/</link><description>私のブログへようこそ。私は技術的なナマズです。記事を共有する技術的なナマズです</description><copyright>Tech-Catfish</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/45809211?v=4</url><title>avatar</title><link>https://www.tech-catfish.cloudns.ch/</link></image><lastBuildDate>Fri, 11 Oct 2024 07:13:45 +0000</lastBuildDate><managingEditor>Tech-Catfish</managingEditor><ttl>60</ttl><webMaster>Tech-Catfish</webMaster><item><title>免费域名，二级域名</title><link>https://www.tech-catfish.cloudns.ch//post/mian-fei-yu-ming-%EF%BC%8C-er-ji-yu-ming.html</link><description>## 域名对个人的重要性还是有些的，比如家用DDNS？&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Tech-Catfish</title><link>https://www.tech-catfish.cloudns.ch/</link><description>私のブログへようこそ。私は技術的なナマズです。記事を共有する技術的なナマズです</description><copyright>Tech-Catfish</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/45809211?v=4</url><title>avatar</title><link>https://www.tech-catfish.cloudns.ch/</link></image><lastBuildDate>Sat, 04 Jan 2025 01:47:45 +0000</lastBuildDate><managingEditor>Tech-Catfish</managingEditor><ttl>60</ttl><webMaster>Tech-Catfish</webMaster><item><title>个人图书馆管理软件</title><link>https://www.tech-catfish.cloudns.ch//post/ge-ren-tu-shu-guan-guan-li-ruan-jian.html</link><description>### 2025-1-4  阴 8°   图书&#13;
+&#13;
+0.利用 Obsidian 轻松构建个人图书馆&#13;
+https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian使用技巧/余月鱼鸽/利用obsidian轻松构建个人图书馆/&#13;
+&#13;
+1，又是买书季，分享个自用的图书管理小软件（PC-Win10） &#13;
+https://www.douban.com/group/topic/296998935/?_i=0261689D4vGJ3w,5120047rcYdq-w&#13;
+&#13;
+2.Zotero&#13;
+https://www.zotero.org/&#13;
+&#13;
+3.茉莉花（jasminum）For Zotero&#13;
+一个简单的Zotero 插件，用于识别中文元数据&#13;
+https://github.com/l0o0/jasminum&#13;
+&#13;
+4.WordPress 插件-NeoDB Integration 书影音展示页面&#13;
+https://anotherdayu.com/2024/6322/&#13;
+&#13;
+5.基于中国国家图书馆ISBN检索的calibre的source/metadata插件。</description><guid isPermaLink="true">https://www.tech-catfish.cloudns.ch//post/ge-ren-tu-shu-guan-guan-li-ruan-jian.html</guid><pubDate>Sat, 04 Jan 2025 01:14:10 +0000</pubDate></item><item><title>免费域名，二级域名</title><link>https://www.tech-catfish.cloudns.ch//post/mian-fei-yu-ming-%EF%BC%8C-er-ji-yu-ming.html</link><description>## 域名对个人的重要性还是有些的，比如家用DDNS？&#13;
 &#13;
 免费的域名有以下网站，还请其他大佬继续补充，一起将白嫖进行到底&#13;
 &#13;
